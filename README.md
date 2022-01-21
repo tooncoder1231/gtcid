@@ -21,3 +21,4 @@
 * Note 2: If it stucks at connected to server/disconnected server after you created accounts probably you're got ip limited you gotta do this: https://media.discordapp.net/attachments/900416037781131305/901503881534664815/Ekran_Alnts.PNG?width=357&height=494
 # gtcid
 # gtcid
+# gtcid2
